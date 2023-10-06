@@ -2,12 +2,5 @@ the days of the week
 
 1. Monday 
 2. Tuesday 
-<<<<<<< HEAD
 3. Wednesday
 4. Thursday
-=======
-
-
-5. Friday
-6. Saturday
->>>>>>> 1f694d5a17fc0427ece4bcb318c8d19e1c12d855
