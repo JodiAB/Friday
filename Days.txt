@@ -1,6 +1,7 @@
 the days of the week 
 
 1. Monday 
+Joel
 2. Tuesday 
 
 
@@ -10,3 +11,16 @@ the days of the week
 Week 1
 Week 2
 Week 3
+=======
+chad-nelson
+
+1.March 
+2.April
+=======
+2. Tuesdays
+3. Wednesday
+4. Thursday
+5. Friday
+6. Saturday
+main
+main
