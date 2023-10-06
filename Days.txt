@@ -6,3 +6,5 @@ the days of the week
 4. Thursday
 5. Friday
 6. Saturday
+
+Public holidays are nice
