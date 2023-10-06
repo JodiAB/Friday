@@ -3,3 +3,5 @@ the days of the week
 1. Monday 
 2. Tuesday 
 
+Week 1
+Week 2
